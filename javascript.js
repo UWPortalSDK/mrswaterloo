@@ -29,8 +29,8 @@ angular.module('portalApp')
 			details: 'Mauris nec ultricies metus. Cras et dictum justo. Nam a ullamcorper dolor. Cras fringilla metus vel facilisis vehicula.'
 		},
 		{
-			title:'Item 6',
-			tags: ['tag A', 'tag B', 'tag C'],
+			title:'Item 1',
+			tags: ['tag Z', 'tag M'],
 			details: 'Curabitur scelerisque lorem risus, in luctus orci hendrerit non. Praesent quis tellus dapibus dolor consectetur volutpat.'
 		}
 	];
